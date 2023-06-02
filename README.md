@@ -1,7 +1,7 @@
 # Hi, I'm Archit Sharma! 👋
 
 ## About Me
-I'm a passionate Node.js developer with [X] years of experience. I enjoy building scalable and efficient web applications using Node.js and related technologies. I'm particularly interested in 🌐 web development, 🚀 server-side JavaScript, and 📦 package management. I have hands-on experience working with both monolithic and microservice architectures, as well as Apache Kafka and Fastify.
+I'm a passionate Node.js developer with 1.5 years of experience. I enjoy building scalable and efficient web applications using Node.js and related technologies. I'm particularly interested in 🌐 web development, 🚀 server-side JavaScript, and 📦 package management. I have hands-on experience working with both monolithic and microservice architectures, as well as Apache Kafka and Fastify.
 
 ## Skills
 Here are some of the technologies and skills I possess:

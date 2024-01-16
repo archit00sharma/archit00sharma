@@ -13,7 +13,12 @@ Greetings! I'm Archit Sharma, a seasoned Full-Stack Developer with 1.7 years of 
 
 ### Project Highlights
 
-#### Snapeat
+### Snapeat 🍽️
+Transforming the culinary landscape with innovative features.
+- Empowering customers with seamless browsing and ordering.
+- Streamlining merchant operations for efficient order management.
+- Enabling chefs with engaging features for menu customization.
+- Built on MongoDB and Fastify for robust performance.
 
 #### Switch 🔄
 Revolutionizing collaborative loan management and product distribution.
